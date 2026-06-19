@@ -4,8 +4,7 @@
  
 ---
  
-## 📺 Watch Me Build the Lab Here
-> 🎥 [Loom Walkthrough — Coming Soon](#)
+## 📺 [Watch Me Build the Lab Here](https://www.loom.com/share/c2693a043e8e4a629ba5e99f6e6e71b0)
  
 ---
  
